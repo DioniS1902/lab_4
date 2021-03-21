@@ -1,14 +1,9 @@
-## Lab 3
-### Lab 3 Task
- - Write code to lab 2 task
- - Use python code convention
- - Classes must be in different packets
- - Console interaction must be minimal
- - Code must include only those classes, which are described in class diagram
- - Class attributes/methods and their visibility must coincide with values from class diagram
- - Sorting must be implemented in separate method
- - Code must be uploaded in separate branch as pull request
- - For checking your code, you should create separate class, which contains main method
+## Lab 4
+### Lab 4 Task
+ - Tests performed in work 4 should be added to work 3.
+ - Test code coverage should be 70%
+ - The committee in Github is executed as a separate extraction request (but no merge required)
+ - The code should be checked for compliance with the requirements of PEP8 and correct any comments found
 
 ### To run:
   - `python3 main.py`
